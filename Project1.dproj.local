@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.582,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Test\Unit1.fmx=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.988,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Test\Project1.dproj=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.582,C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Test\Unit1.pas=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.957,=C:\Users\Пользователь\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="AVD_for_7_WSVGA_Tablet" Android="AVD_for_10_1_WXGA_Tablet"/>
+	</ActiveMobileDevice>
+</BorlandProject>
